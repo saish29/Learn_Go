@@ -22,7 +22,7 @@ func main() {
 	var const_val = 3424
 	const_val = const_val + 1
 	fmt.Println(const_val + 1)
-	printMe("Hell no")
+	// printMe("Hell no")
 	res2, res3 := intDiv(8, 3)
 	fmt.Println(res2, res3)
 }
